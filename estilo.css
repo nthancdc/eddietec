@@ -21,6 +21,7 @@ img#eddie2 {
 header {
     background-color: #FF00FF;
     box-shadow: 1px 1px 4px black;
+
 }
 
 hgroup {
@@ -33,33 +34,32 @@ hgroup {
 
 nav {
     position: absolute;
-    left: 30px;
-    background-color: #E6E6FA;
-
-    margin-top: 60px;
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-bottom: 20px;
+    left: 0px;
+    background-color: #E0FFFF;
+    margin-top: 50px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 50px;
     box-shadow: 1px 1px 4px black;
+
 }
 
 ul {
-    padding: 0px;
-    margin-top: 7px;
-    margin-bottom: 70px;
-    margin-right: 40px;
-    margin-left: 40px;
+    padding: 10px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
 
 }
 
 li {
     background-color: #FF00FF;
-    margin-top: 20px;
-    padding: 3px;
+    margin-bottom: 30px;
+    padding: 8px;
     text-align: center;
     font-family: Arial;
     font-size: 13pt;
-
     font-weight: bolder;
     transition: background-color 0.5s;
 }
@@ -72,8 +72,8 @@ li:hover {
 div#div2 {
     font-family: Didot;
     background-color: #E6E6FA;
-    margin-left: 600px;
-    margin-right: 150px;
+    margin-left: 500px;
+    margin-right: 20px;
     box-shadow: 1px 1px 4px black;
     margin-bottom: 10px;
     padding: 20px;
